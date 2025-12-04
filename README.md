@@ -1,3 +1,5 @@
+# Приложение доступно по ссылке https://ml2025-project1-kondakov-vladislav.streamlit.app/
+## Или при локальном запуске командой: python -m streamlit run app.py
 ## 1. Что было сделано
 
 ### 1.1. Анализ и подготовка данных
